@@ -1,7 +1,7 @@
 # Laboratory work nr. 1
 -----
 # Topic : *Testing tool - Selenium*
-### Author : *Drumea Vasile*
+### Author : Chetrusca Dumitru
 -----
 ## Objectives :
 1. Instalation and Setup of Selenium;
